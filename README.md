@@ -1,6 +1,7 @@
 # CSE017
 CSE017 Junior year Fall semester.
 This is all my coding projects, homework, exams, ect. for the class CSE017 at Lehigh University
+
 CSE017 Description:
 This course will cover the design and implementation of algorithms and data structures
 using Java. It assumes that students have had prior experience using conditional
